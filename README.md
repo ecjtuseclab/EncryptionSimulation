@@ -1,0 +1,2 @@
+# EncryptionSimulation
+基于国密算法的采集终端链路加密仿真研究
